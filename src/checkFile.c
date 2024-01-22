@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   checkFile.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bortakuz <bortakuz@student.42kocaeli.co    +#+  +:+       +#+        */
+/*   By: enveryilmaz <enveryilmaz@student.42.fr>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/22 19:22:50 by bortakuz          #+#    #+#             */
-/*   Updated: 2024/01/22 19:24:39 by bortakuz         ###   ########.fr       */
+/*   Updated: 2024/01/22 19:39:18 by enveryilmaz      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
