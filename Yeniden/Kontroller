@@ -1,0 +1,18 @@
+part1/2
+altısı karışık olabilir
+->iki argüman olacak ("SO", "path"), üçüncü bir argüman olursa hata ver!
+-> iki argüman olucak ("F", "X,X,X"), arada boşluk yada illegal karakter varsa hata ver.
+->iki arkgümanın sağında solunda ortasında boşluk olabilir (\n olamaz!!)
+
+part3
+
+
+
+
+
+
+
+
+
+
+
